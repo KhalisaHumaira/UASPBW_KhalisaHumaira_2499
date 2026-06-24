@@ -2,7 +2,6 @@
 
 Website e-commerce toko kue berbasis Laravel yang memungkinkan pelanggan melakukan pemesanan produk secara online dan admin mengelola seluruh aktivitas toko melalui dashboard khusus.
 
-
 2. Deskripsi Proyek
 
 Sweetly Bakery merupakan aplikasi web yang dikembangkan menggunakan framework Laravel dengan arsitektur MVC. Sistem ini menyediakan fitur katalog produk, keranjang belanja, pemesanan online, manajemen pesanan, serta dashboard admin untuk mengelola produk dan pengguna.
@@ -28,7 +27,6 @@ Admin
 * Manajemen pesanan
 * Manajemen pengguna
 
-
 4. Database
 
 Entitas Utama
@@ -46,7 +44,6 @@ Relasi
 * Category memiliki banyak Product
 * Product dapat muncul pada banyak Order Item
 
-
 5. Akun Demo
 
 Admin
@@ -58,5 +55,3 @@ Customer
 
 Email: user@sweetly.com
 Password: user123
-
-
